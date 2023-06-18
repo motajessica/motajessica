@@ -1,11 +1,11 @@
 ### Hi there, welcome to my GitHub profile! 👋 
 
-I am Jessica Mota, a software developer (focus on full Stack Development & DevOps) with a background in mechanical engineering 🛠 
+I am Jessica, a software developer (focus on full Stack Development & DevOps) with a background in mechanical engineering 🛠 
  
 Born and bred: Brazil 🇧🇷  
 Living: New Zealand 🇳🇿 since 2019
 
-🔭 Currently, I'm enrolled in the Mission Ready HQ Advanced Software Developer Program, where I'm improving my coding skills and expanding my knowledge of cloud and DevOps technologies.
+🌱  Recently completed an Advanced Software Developer Program at Mission Ready HQ, where I improved my coding skills and knowledge of cloud and DevOps technologies.
 
 💻 &nbsp;Languages and Tools :
 
@@ -19,7 +19,6 @@ Living: New Zealand 🇳🇿 since 2019
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 
-🌱 Learning cloud infrastructure using Google Cloud, MongoDB, and Azure & Learning containerization with Docker and CI/CD workflows.
 
 🚀 Some of my projects include:
 * My Journal App: a standard CRUD app with MongoDB using Google authentication as third party signup.  
@@ -28,7 +27,7 @@ Living: New Zealand 🇳🇿 since 2019
 *  Web App Deployment: Built and deployed a web application using Docker containers and deployment strategies.
 
 ⚡ Fun facts: 
-* When I'm not coding, you can find me exploring the outdoors and going on hikes🏕🥾 & bike rides 🚴‍♀️. Nature is a great way to recharge.
+* When I'm not coding, you can find me exploring the outdoors and going on hikes & bike rides 🚴‍♀️. Nature is a great way to recharge.
 * I love going to the GYM 🏋️‍♀️. I exercise regularly.
 * I play futsal once a week ⚽ ( even not being great at it ) and table tennis 🏓.
 
