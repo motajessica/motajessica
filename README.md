@@ -1,6 +1,6 @@
 ### Hi there, welcome to my GitHub profile! 👋 
 
-I am @motajessica (Jessica Mota), a software developer (focus on full Stack Development & DevOps) with a background in mechanical engineering 🛠 
+I am Jessica Mota, a software developer (focus on full Stack Development & DevOps) with a background in mechanical engineering 🛠 
  
 Born and bred: Brazil 🇧🇷  
 Living: New Zealand 🇳🇿 since 2019
