@@ -1,9 +1,14 @@
-### Hi there, welcome to my GitHub profile! 👋 
+## Hi there, welcome to my GitHub profile!
 
-I am Jessica, a full-stack developer/DevOps with a background in mechanical engineering 🛠 
- 
-💻 &nbsp;Languages and Tools :
+I am Jessica, a full-stack developer/DevOps with a background in mechanical engineering 🛠.  
 
+🇧🇷 Born and bred: Brazil 
+
+🇳🇿 Living: New Zealand since 2019  
+
+🌱  Recently completed an Advanced Software Developer Program at Mission Ready HQ, where I improved my coding skills and knowledge of cloud and DevOps technologies.  
+
+#### ⚡ Technologies & Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -13,27 +18,27 @@ I am Jessica, a full-stack developer/DevOps with a background in mechanical engi
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;  
-
-🇧🇷 Born and bred: Brazil  
-
-🇳🇿 Living: New Zealand since 2019  
-
-🌱  Recently completed an Advanced Software Developer Program at Mission Ready HQ, where I improved my coding skills and knowledge of cloud and DevOps technologies.  
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons//github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
   
-🚀 Some of my projects include:
+#### 🚀 Some of my projects include:
 * My Journal App: a standard CRUD app with MongoDB using Google authentication as third party signup.  
 * Chatbot Integration: Trained Google Dialog Flow AI model, integrated into a web application as a chatbot assistant.  
 * Image Recognition App: Trained with Azure Custom Vision AI model. It find similar cars based on uploaded pictures.
 *  Web App Deployment: Built and deployed a web application using Docker containers and deployment strategies.
   
 ⚡ Fun facts: 
-* When I'm not coding, you can find me exploring the outdoors and going on hikes & bike rides 🚴‍♀️. Nature is a great way to recharge.
-* I love going to the GYM 🏋️‍♀️. 
-* I play futsal once a week ⚽ ( even not being great at it ) and table tennis 🏓.
+*  When I'm not coding, I enjoy exploring the outdoors, going on hikes & bike rides 🚴‍♀️, and hitting the GYM 🏋️‍♀️.
+* I play futsal once a week ( even not being great at it ) and table tennis 🏓.
 
-📫 How to reach me: 
-* [My Email](motajessicaa@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/jessica-mota-106b501a4/)
+📫 How to reach me:
+
+[![Gmail Badge](https://img.shields.io/badge/-motajessicaa@gmail.com-c14438?style=default&logo=Gmail&logoColor=white&link=mailto:motajessicaa@gmail.com)](mailto:motajessicaa@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jessica_Mota-blue?style=default&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-mota-106b501a4/)](https://www.linkedin.com/in/jessica-mota-106b501a4/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motajessica&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=motajessica&count_private=true&show_icons=true&include_all_commits=true)
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmotajessica%2Fmotajessica&label=Visitors&labelColor=%23697689&countColor=%23d9e3f0)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmotajessica%2Fmotajessica)
 
 Happy coding! 🚀
