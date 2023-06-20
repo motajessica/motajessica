@@ -39,6 +39,7 @@ I am Jessica, a full-stack developer/DevOps with a background in mechanical engi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motajessica&hide=TeX&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=motajessica&count_private=true&show_icons=true&include_all_commits=true)
 
+
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmotajessica%2Fmotajessica&label=Visitors&labelColor=%23697689&countColor=%23d9e3f0)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmotajessica%2Fmotajessica)
 
 Happy coding! 🚀
