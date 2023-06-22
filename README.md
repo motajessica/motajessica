@@ -25,7 +25,6 @@ I am Jessica, a full-stack developer/DevOps with a background in mechanical engi
 * My Journal App: a standard CRUD app with MongoDB using Google authentication as third party signup.  
 * Chatbot Integration: Trained Google Dialog Flow AI model, integrated into a web application as a chatbot assistant.  
 * Image Recognition App: Trained with Azure Custom Vision AI model. It find similar cars based on uploaded pictures.
-*  Web App Deployment: Built and deployed a web application using Docker containers and deployment strategies.
   
 ⚡ Fun facts: 
 *  When I'm not coding, I enjoy exploring the outdoors, going on hikes & bike rides 🚴‍♀️, and hitting the GYM 🏋️‍♀️.
