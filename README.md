@@ -2,11 +2,13 @@
 
 I am Jessica, a full-stack developer/DevOps with a background in mechanical engineering 🛠.  
 
-🇧🇷 Born and bred: Brazil 
+* 🇧🇷 Born and bred: Brazil 
 
-🇳🇿 Living: New Zealand since 2019  
+* 🇳🇿 Living: New Zealand since 2019  
 
-🌱  Recently completed an Advanced Software Developer Program at Mission Ready HQ, where I improved my coding skills and knowledge of cloud and DevOps technologies.  
+* 📚 Recently completed an Advanced Software Developer Program, where I improved coding skills and knowledge of cloud and DevOps.  
+
+* 🌱 I am about to start working on an internship as a Developer 
 
 #### ⚡ Technologies & Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
