@@ -22,6 +22,9 @@ I am Jessica, a full-stack developer/DevOps with a background in mechanical engi
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons//github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="googlecloud" alt="googlecloud" width="40" height="40"/>&nbsp;
+
   
 #### 🚀 Some of my projects include:
 * My Journal App: a standard CRUD app with MongoDB using Google authentication as third party signup.  
