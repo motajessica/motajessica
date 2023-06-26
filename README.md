@@ -6,9 +6,9 @@ I am Jessica, a full-stack developer/DevOps with a background in mechanical engi
 
 * 🇳🇿 Living: New Zealand since 2019  
 
-* 📚 Recently completed an Advanced Software Developer Program, where I improved coding skills and knowledge of cloud and DevOps.  
+* 📚 Recently completed an Advanced Software Developer Programme, where I improved coding skills and knowledge of cloud and DevOps.  
 
-* 🌱 I am about to start working on an internship as a Developer 
+* 🌱 I am about to start working on an internship as a Developer at DATACOM.
 
 #### ⚡ Technologies & Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
