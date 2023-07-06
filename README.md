@@ -8,7 +8,7 @@ I am Jessica, a full-stack developer/DevOps with a background in mechanical engi
 
 * 📚 Recently completed an Advanced Software Developer Programme, where I improved coding skills and knowledge of cloud and DevOps.  
 
-* 🌱 I am currently working as a Software Developer at DATACOM.  
+* 🌱 I am currently working as a Software Developer Intern at DATACOM.  
 
 #### ⚡ Technologies & Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
