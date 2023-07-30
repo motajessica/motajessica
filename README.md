@@ -26,6 +26,7 @@ I am Jessica, a full-stack developer/DevOps with a background in mechanical engi
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="googlecloud" alt="googlecloud" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="heroku" alt="heroku" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
 
 #### 🚀 Some of my projects include:
 * My Journal App: a standard CRUD app with MongoDB using Google authentication as third party signup.  
