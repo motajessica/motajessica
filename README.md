@@ -6,9 +6,9 @@ I am Jessica, a full-stack developer/DevOps with a background in mechanical engi
 
 * 🇳🇿 Living: New Zealand since 2019  
 
-* 📚 Recently completed an Advanced Software Developer Programme NZQA Level 5 (AI & Cloud) 
+* 📚 Recently completed an Advanced Software Developer Programme NZQA Level 5 (AI & Cloud) & Level 6
 
-* 🌱 I am currently working as a Software Developer Intern at Datacom.  
+* 🌱 Worked as a Software Developer Intern at Datacom.  
 
 #### ⚡ Technologies & Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
