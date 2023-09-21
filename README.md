@@ -35,7 +35,7 @@ I am Jessica, a full-stack developer/DevOps with a background in mechanical engi
   
 ⚡ Fun facts: 
 *  When I'm not coding, I enjoy exploring the outdoors, going on hikes & bike rides 🚴‍♀️, and hitting the GYM 🏋️‍♀️.
-* I play futsal once a week ( even not being great at it ) and table tennis 🏓.
+* I play futsal once a week ( even not being great at it ). 
 
 📫 How to reach me:
 
